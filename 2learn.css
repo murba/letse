@@ -1,0 +1,223 @@
+﻿.downspace{
+padding-bottom:10px;
+}
+.space{
+padding-left:5px;
+padding-right:5px;
+}
+.onlyfon{
+font-family:'Ruthie',cursive;
+}
+.fonwait{
+font-weight:bold;
+}
+.topodahill {
+font-family:'Ruthie',cursive;
+text-align:center;
+font-size: 100px;
+}
+.topodavalley{
+text-align:center;
+font-size:30px;
+font-weight: 5;
+font-family:'Ruthie',cursive;
+}
+.toplearn{
+color: black;
+font-size:30px;
+font-weight: 7;
+font-family:'Ruthie',cursive;
+}
+.topnews{
+color: black;
+font-size:40px;
+
+font-family:'Ruthie',cursive;
+}
+.splendor{
+text-align:center;
+}
+
+.astronomy{
+opacity:.85;
+background-color:darkred;
+color:white;
+border-color:darkred;
+border-width:medium;
+
+}
+.biology{
+opacity:.85;
+background-color:darkcyan;
+color:white;
+border-color:darkcyan;
+border-width:medium;
+}
+.chemistry{
+opacity:.85;
+background-color:#8d8d8d;
+color:white;
+border-color:#8d8d8d;
+border-width:medium;
+}
+.planetary{
+opacity:.85;
+background-color:forestgreen;
+color:white;
+border-color:forestgreen;
+border-width:medium;
+}
+.history{
+opacity:.85;
+background-color:sienna;
+color:white;
+border-color:sienna;
+border-width:medium;
+}
+.mathntech{
+opacity:.85;
+background-color:#2952a3;
+color:white;
+border-color:#2952a3;
+border-width:medium;
+}
+.philosophy{
+opacity:.85;
+background-color:darkmagenta;
+border-color:darkmagenta;
+color:white;
+border-width:medium;
+}
+.physics{
+opacity:.85;
+background-color:darkgoldenrod;
+color:white;
+border-color:darkgoldenrod;
+border-width:medium;
+opacity:.90;
+}
+.sociology{
+opacity:.85;
+background-color:rosybrown;
+color:white;
+border-color:rosybrown;
+border-width:medium;
+}
+.multi{
+opacity:.85;
+background-color:cornflowerblue;
+color:white;
+border-color:cornflowerblue;
+border-width:medium;
+}
+.publications{
+opacity:.85;
+background-color:firebrick;
+color:white;
+border-color:firebrick;
+border-width:medium;
+}
+
+.bodypad{
+padding-top:100px
+}
+ .bywhatwhen {
+font-style: oblique;
+font-size: .9em;
+}
+.more{
+color:darkslateblue;
+}
+.learningastro{
+background-color: ;
+opacity:.85;
+border-radius:10px;
+}
+.learningbio{
+background-color: ;
+opacity:.85;
+border-radius:10px;
+}
+.learningchem{
+background-color: #;
+opacity:.85;
+border-radius:10px;
+}
+.learningplanet{
+background-color: ;
+opacity:.85;
+border-radius:10px;
+}
+.learninghistory{
+background-color: ;
+border-radius:10px;
+
+}
+.learningmathntech{
+background-color: ;
+opacity:.85;
+border-radius:10px;
+color:black;
+}
+.learningphilosophy{
+background-color: ;
+opacity:.75;
+border-radius:10px;
+}
+.learningphysics{
+background-color: ;
+opacity:.90;
+border-radius:10px;
+}
+.learningsocio{
+background-color:;
+opacity:.75;
+border-radius:10px;
+}
+.learningmulti{
+background-color: ;
+opacity:.85;
+border-radius:10px;
+}
+.learningpublic{
+background-color: ;
+opacity:.85;
+border-radius:10px;
+}
+.padtop{
+padding-top:10px;
+}
+.centric{
+text-align:center;
+color:black;
+}
+
+.dense{
+font-size:25px; 
+}
+
+.middle{
+text-align:center;
+}
+.paycity{
+opacity:3;
+}
+
+body{
+background-color:gainsboro;
+padding-bottom:20px
+}
+.brack{
+color:black;
+}
+
+.astr {
+border-left-color: darkred;
+border-width:medium;
+}
+
+.imageclass {
+display: block;
+width: 100%;
+height: auto;
+}
